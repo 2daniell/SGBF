@@ -119,7 +119,7 @@ A comunicação entre os dispositivos e o sistema ocorre por meio de uma conexã
 
 O sistema pode ser acessado por meio de navegadores web e por um aplicativo android, permitindo uso em computadores, notebooks, tablets e smartphones. Além disso ele pode se integrado a outros sistemas externos, como plataformas de pagamento, sistemas de gestão financeira, ou ferramentas de emissão de notas fiscais, por meio de APIs (conjunto de regras e padrões que permite que diferentes sistemas conversem entre si e troquem informações de forma automatizada).
 
-![Arquitetura ambiental do sistema SGBF](../assets/architecture.jpeg)
+![Arquitetura ambiental do sistema SGBF](../assets/architecture.jpg)
 
 **Figura 1** - Arquitetura ambiental do sistema SGBF
 
