@@ -128,20 +128,12 @@ Os requisitos serão identificados no formato:
 
 ---
 
-# Matriz de Rastreabilidade
+# Telas
 
-| RF / RNF | RNF001 | RNF002 | RNF003 | RNF004 | RNF005 | RNF006 | RNF007 | RNF011 | RNF014 | RNF015 | RNF016 |
-| :------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|  RF001   |    X   |    X   |    X   |        |        |        |    X   |        |        |        |    X   |
-|  RF002   |    X   |    X   |    X   |        |        |        |    X   |        |        |        |    X   |
-|  RF003   |    X   |    X   |        |        |        |        |    X   |        |    X   |        |    X   |
-|  RF004   |    X   |    X   |    X   |        |        |        |    X   |        |    X   |        |    X   |
-|  RF005   |    X   |        |    X   |        |        |        |    X   |        |    X   |        |    X   |
-|  RF006   |        |    X   |    X   |        |        |    X   |    X   |    X   |        |        |        |
-|  RF007   |    X   |    X   |    X   |        |        |        |    X   |    X   |    X   |        |    X   |
-|  RF008   |        |    X   |        |        |        |        |    X   |        |        |        |        |
-|  RF009   |    X   |        |        |        |        |        |    X   |        |    X   |    X   |    X   |
-|  RF010   |        |    X   |    X   |        |        |    X   |    X   |    X   |        |        |        |
+![Tela do Cliente](../assets/Tela-Cliente.PNG)
 
+---
+
+![Tela do Administrador](../assets/Tela-ADM.PNG)
 
 **Criado em Novembro de 2025 por _Carlos Silvio e Daniel Lucas_**
