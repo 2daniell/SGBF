@@ -1,4 +1,3 @@
-# Sistema Gerenciador de Brinquedos de Festa (SGBF)
 **Versão:** 1.1  
 **Autores:** Carlos Silvio e Daniel Lucas  
 **Data:** 08/11/2025  
@@ -136,4 +135,11 @@ Os requisitos serão identificados no formato:
 
 ![Tela do Administrador](../assets/Tela-ADM.PNG)
 
+---
+
+![Tela do Atendimento](../assets/Tela-Atendimento.PNG)
+
+
+
 **Criado em Novembro de 2025 por _Carlos Silvio e Daniel Lucas_**
+
