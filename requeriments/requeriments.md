@@ -90,21 +90,21 @@ Os requisitos serão identificados no formato:
 # Requisitos Não-Funcionais
 
 ## Disponibilidade
-- **[RNF001]** - O sistema deve estar disponível 24h por dia, 7 dias por semana.  
+- **[RNF001]** - O sistema deve estar disponível 24h por dia, 7 dias por semana, 365 dias por ano.  
 - **[RNF002]** - O sistema deve permitir acesso via navegadores (Chrome, Firefox, Edge e Safari) e dispositivos móveis.  
 
 ## Privacidade e Segurança
 - **[RNF003]** - O sistema deve atender à **LGPD**, garantindo privacidade dos dados pessoais.  
-- **[RNF004]** - O sistema deve utilizar algoritmos de hash seguros, como **bcrypt**, para armazenar senhas.
+- **[RNF004]** - O sistema deve utilizar metodos seguros para armezenar senhas(**bcrypt**)
 - **[RNF005]** - O sistema deve suportar autenticação de dois fatores.  
-- **[RNF006]** - As conexões devem utilizar **HTTPS**.  
+- **[RNF006]** - As conexões devem utilizar conexão segura(**HTTPS**).  
 
 ## Usabilidade
 - **[RNF007]** - A interface deve ser simples, intuitiva e responsiva, adequada a usuários com conhecimento básico em informática.  
 - **[RNF008]** - O sistema deve suportar acessibilidade, incluindo leitura de tela e alto contraste.  
 
 ## Suportabilidade
-- **[RNF009]** - O sistema deve ser compatível com os principais navegadores e sistemas operacionais modernos.  
+- **[RNF009]** - O sistema deve ser compatível com os todos os navegadores.  
 - **[RNF010]** - O sistema deve possuir versão mobile.  
 
 ## Interoperabilidade
@@ -123,7 +123,7 @@ Os requisitos serão identificados no formato:
 
 ## Implantação
 - **[RNF018]** - O sistema deve ser hospedado em ambiente seguro com backups automáticos diários.  
-- **[RNF019]** - O sistema deve permitir atualizações contínuas sem interrupção do serviço (deploy contínuo).  
+- **[RNF019]** - O sistema deve permitir atualizações contínuas sem interrupção do serviço.  
 
 ---
 
@@ -142,4 +142,5 @@ Os requisitos serão identificados no formato:
 
 
 **Criado em Novembro de 2025 por _Carlos Silvio e Daniel Lucas_**
+
 
