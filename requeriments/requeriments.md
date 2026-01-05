@@ -18,9 +18,7 @@
    - [Manutenibilidade](#manutenibilidade)  
    - [Desempenho](#desempenho)  
    - [Implementação](#implementação)  
-   - [Implantação](#implantação)  
-6. [Matriz de Rastreabilidade](#matriz-de-rastreabilidade)  
-7. [Histórico de Alterações](#histórico-de-alterações)
+   - [Implantação](#implantação)
 
 ---
 
