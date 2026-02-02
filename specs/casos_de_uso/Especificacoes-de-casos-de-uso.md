@@ -304,7 +304,9 @@ Funcionário de Atendimento
 1. O ator acessa **“Reservas”**.
 2. Busca brinquedos.
 3. Verifica disponibilidade.
-4. Registra a reserva.
+4. Informa o brinquedo, descreve o evento, informa o local do evento, 
+a data do pedido, data de inicio da locação e data de fim da locação.
+5. Registra a reserva.
 
 ### Fluxos Alternativos
 - **A1 – Cancelar reserva**
@@ -326,8 +328,9 @@ RF019
 Funcionário de Atendimento
 
 ### Fluxo Principal
-1. O ator informa o critério.
-2. O sistema exibe resultados.
+1. O ator acessa a pagina principal da aplicação.
+2. O ator informa o critério na barra de pesquisa.
+3. O sistema exibe resultados da busca.
 
 ### Fluxos Alternativos
 - **A1 – Busca parcial**
@@ -390,7 +393,8 @@ Administrador do Sistema
 
 ### Fluxo Principal
 1. O ator acessa **“Brinquedos”**.
-2. Preenche os dados.
+2. Preenche os dados de nome do brinquedo, categoria, 
+descrição, envia as imagens, valor, disponibilidade, condição.
 3. O sistema valida e salva.
 
 ### Fluxos Alternativos
@@ -414,7 +418,11 @@ RF008
 Administrador do Sistema
 
 ### Fluxo Principal
-1. O ator registra a manutenção.
+1. O ator entra no menu de cadastro de manutenção dos equipamentos
+2. Preenche as informações da manutenção informando o brinquedo, a empresa responsavel
+o e-mail da empresa, o telefone da empresa, a ultima reserva do brinquedo, a descrição, 
+o valor da manutencao, a data de inicio da manutencao, a data de fim da manutencao.
+3. O ator clica em registrar manutenção.
 2. O sistema salva os dados.
 
 ### Fluxos de Exceção
