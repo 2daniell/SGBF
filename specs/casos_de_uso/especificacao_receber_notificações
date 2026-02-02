@@ -1,0 +1,22 @@
+## UC03 – Receber Notificações
+
+**Objetivo**  
+Notificar o cliente sobre eventos da reserva.
+
+**Requisitos**  
+RF010
+
+**Atores**  
+Cliente Final
+
+### Fluxo Principal
+1. O sistema identifica alteração na reserva.
+2. O sistema envia notificação ao cliente.
+
+### Fluxos Alternativos
+- **A1 – Envio via WhatsApp**
+  - O sistema utiliza integração externa.
+
+### Fluxos de Exceção
+- **E1 – Falha no envio**
+  - O sistema registra erro.

@@ -78,7 +78,7 @@ O ator visualizou brinquedos disponíveis.
 
 ### Fluxo Principal
 1. O ator seleciona um brinquedo.
-2. Informa data, horário e local do evento.
+2. Informa o cliente, descrição, valor do aluguel, data de inicio do pedido, data de inicio da locação, data de fim da locação e local do evento.
 3. Confirma a solicitação.
 4. O sistema registra a reserva como *Aguardando aprovação*.
 5. O sistema envia notificação ao cliente.
@@ -180,7 +180,7 @@ Funcionário de Atendimento
 ### Fluxo Principal
 1. O ator acessa **“Clientes”**.
 2. O sistema exibe formulário.
-3. O ator preenche os dados.
+3. O ator preenche os dados de nome do cliente, data de nascimento, endereco, e-mail e telefone.
 4. O sistema valida e salva.
 5. O sistema confirma a operação.
 
